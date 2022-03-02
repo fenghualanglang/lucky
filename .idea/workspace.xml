@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24ebe4d4-f9de-426d-a004-1ce2dd814528" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/api/captcha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/api/china_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/api/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/api/cutomer_call.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/api/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/E02 Styling.kml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/E04 Track.kml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/GroundOverlay.kml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/PolyStyle.kml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/handler/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/handler/gd_district.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/handler/gd_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/handler/商朝地图02.kml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/p4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/qt_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/qt_ui1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/qt_ui_ali.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/qt_ui_bak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/qt_ui_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/r1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/r2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/r3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/r4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/r5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/t1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/history/lucky/t2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/basemodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/baseview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/captcha.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jsonResponse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/permission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/serializers-bak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/throttle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settingConf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settingConf/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settingConf/settings-bak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settingConf/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settingConf/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settingConf/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settingConf/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/make_china.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/make_china_district.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/search_china.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/send_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/中华人民共和国.kml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/河南省.kml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25MiFxfE0T9gE2qylFhNpSFOWDm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\src\utils" />
+      <recent name="C:\Users\Administrator\Desktop\src\settingConf" />
+      <recent name="C:\Users\Administrator\Desktop\src\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\src\history" />
+      <recent name="C:\Users\Administrator\Desktop\src\settingConf" />
+      <recent name="C:\Users\Administrator\Desktop\src" />
+      <recent name="C:\Users\Administrator\Desktop\src\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="gd_district" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lucky/handler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lucky/handler/gd_district.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="make_china_district" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/make_china_district.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qt_ui1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lucky" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lucky/qt_ui1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_china" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/search_china.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/settingConf" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/settingConf/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="src" type="Python.DjangoServer" factoryName="Django server">
+      <module name="src" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.search_china" />
+        <item itemvalue="Python.make_china_district" />
+        <item itemvalue="Python.qt_ui1" />
+        <item itemvalue="Python.gd_district" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24ebe4d4-f9de-426d-a004-1ce2dd814528" name="Default Changelist" comment="" />
+      <created>1645343255877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645343255877</updated>
+      <workItem from="1645343257346" duration="26805000" />
+      <workItem from="1645936122788" duration="4120000" />
+      <workItem from="1645970470046" duration="11321000" />
+      <workItem from="1646144035144" duration="10733000" />
+      <workItem from="1646188530781" duration="3695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645966123021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1645966123021" />
+    <state width="1391" height="285" key="GridCell.Tab.0.bottom" timestamp="1646154881986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1391" height="285" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1646154881986" />
+    <state width="1391" height="285" key="GridCell.Tab.0.center" timestamp="1646154881986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1391" height="285" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1646154881986" />
+    <state width="1391" height="285" key="GridCell.Tab.0.left" timestamp="1646154881986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1391" height="285" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1646154881986" />
+    <state width="1391" height="285" key="GridCell.Tab.0.right" timestamp="1646154881986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1391" height="285" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1646154881986" />
+    <state x="372" y="88" key="SettingsEditor" timestamp="1645367386547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="88" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1645367386547" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1645936158608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1645936158608" />
+    <state x="400" y="170" width="621" height="490" key="find.popup" timestamp="1645349721969">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="400" y="170" width="621" height="490" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1645349721969" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/src$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1645374366913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lucky" />
+    <SUITE FILE_PATH="coverage/src$make_china_district.coverage" NAME="make_china_district Coverage Results" MODIFIED="1645980537514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/src$qt_ui1.coverage" NAME="qt_ui1 Coverage Results" MODIFIED="1645936219353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lucky" />
+    <SUITE FILE_PATH="coverage/src$test.coverage" NAME="test Coverage Results" MODIFIED="1646150935588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/settingConf" />
+    <SUITE FILE_PATH="coverage/src$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1645373717000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lucky" />
+    <SUITE FILE_PATH="coverage/src$gd_search.coverage" NAME="gd_search Coverage Results" MODIFIED="1645367195481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lucky/handler" />
+    <SUITE FILE_PATH="coverage/src$gd_district.coverage" NAME="gd_district Coverage Results" MODIFIED="1645375672418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lucky/handler" />
+    <SUITE FILE_PATH="coverage/src$search_china.coverage" NAME="search_china Coverage Results" MODIFIED="1646150333669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+  </component>
+</project>

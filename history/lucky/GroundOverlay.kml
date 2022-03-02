@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <GroundOverlay id="2">
+            <name>GroundOverlay</name>
+            <Icon id="3">
+                <href>http://simplekml.googlecode.com/hg/samples/resources/smile.png</href>
+            </Icon>
+            <gx:LatLonQuad>
+                <coordinates>18.410524,-33.903972,0.0 18.411429,-33.904171,0.0 18.411757,-33.902944,0.0 18.41085,-33.902767,0.0</coordinates>
+            </gx:LatLonQuad>
+        </GroundOverlay>
+    </Document>
+</kml>
